@@ -1,1 +1,1 @@
-# asus-p1801-t-kernel
+# Asus P8101-T kernel source
